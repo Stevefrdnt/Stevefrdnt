@@ -19,6 +19,9 @@
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white">
 
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  
+  <img alt="Javascript" src="https://img.shields.io/badge/-vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=black">
+  <img alt="Javascript" src="https://img.shields.io/badge/-nuxtdotjs-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=black">
 </p>
 <h3>Where to find me</h3>
 <p>
