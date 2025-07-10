@@ -1,7 +1,7 @@
 <!-- Heading -->
 <h1> Hello there wanderer! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 <p>
-  I'm Steve, a Web developer based in Indonesia. I'm currently embarking on an exciting journey into the dynamic realm of Mobile Development especially in iOS Development.
+  I'm Steve, a Web developer based in Indonesia 🇮🇩.
 </p>
 
 
