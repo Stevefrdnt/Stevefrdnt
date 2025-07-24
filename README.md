@@ -1,7 +1,7 @@
 <!-- Heading -->
-<h1> Hello there wanderer! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+<h1> Hello there fellow wanderer! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 <p>
-  I'm Steve, a Web developer based in Indonesia 🇮🇩.
+  I'm Steve, a software engineer focused on web development based in Indonesia 🇮🇩.
 </p>
 
 
